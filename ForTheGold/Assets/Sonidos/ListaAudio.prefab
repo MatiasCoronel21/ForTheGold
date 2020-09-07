@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1995505569358476}
+  m_IsPrefabParent: 1
+--- !u!1 &1995505569358476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4739422799725986}
+  - component: {fileID: 114776064732531868}
+  m_Layer: 0
+  m_Name: ListaAudio
+  m_TagString: Untagged
+  m_Icon: {fileID: 3936346786652291628, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4739422799725986
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1995505569358476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -11.77, y: 7.09, z: -0.5}
+  m_LocalScale: {x: 0.87514627, y: 0.87514615, z: 0.87514615}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114776064732531868
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1995505569358476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f4ed1232bc77bc439c51fb5855bc7bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audiosNuevos:
+  - {fileID: 8300000, guid: ab6a06a29141b0d4fa204961725f0e87, type: 3}
+  - {fileID: 8300000, guid: 7d1056be33c97824c82edded01ceee0f, type: 3}
+  - {fileID: 8300000, guid: 6d726901099408f4b944754d1a17d287, type: 3}
+  - {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  - {fileID: 8300000, guid: ca0d9d17840153d41badec3b1abd82a5, type: 3}
+  - {fileID: 8300000, guid: 8e69c8659e7f609439a974a66deeba34, type: 3}

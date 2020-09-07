@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: d5209bba99958f14b87364150d3c94ef
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: ConjuntoDeModulos_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 886
+        width: 630
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_1
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 886
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 774
+        width: 235
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 774
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 774
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 773
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 773
+        width: 274
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: ConjuntoDeModulos_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 662
+        width: 334
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
