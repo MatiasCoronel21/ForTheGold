@@ -26,7 +26,7 @@ GameObject:
   m_Icon: {fileID: -1794265156, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &4871285488515814
 Transform:
   m_ObjectHideFlags: 1
@@ -64,5 +64,9 @@ MonoBehaviour:
   - {fileID: 1310375796575784, guid: 226ec370d8d5faf428c28aa0414005eb, type: 2}
   - {fileID: 1393829795145948, guid: 7d3aed37c3e63f540877078af4bfde30, type: 2}
   - {fileID: 1752970053443510, guid: 22dc2e164d58b3d4ebfb753200753f9f, type: 2}
-  tiempoMin: 9.8
-  tiempoMax: 11
+  - {fileID: 1103627224831826, guid: 4e488276ec4ef5943adf0ec2dbfcf6b3, type: 2}
+  - {fileID: 1482268808526366, guid: 00dda86ef754f434296e2830a8c88880, type: 2}
+  - {fileID: 1060813042693506, guid: 76ff683eb9b1bca479df3e84ba559912, type: 2}
+  - {fileID: 1906155565622378, guid: f48391eb806078448866a5a83a92120f, type: 2}
+  tiempoMin: 10.8
+  tiempoMax: 10.8

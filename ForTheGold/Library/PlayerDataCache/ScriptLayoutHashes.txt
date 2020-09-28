@@ -1,4 +1,4 @@
-Android
+WindowsStandalone
 SceneListBegin?
 Assets/Scenes/MainScene.unity
 Assets/Scenes/EscenaIntro.unity
@@ -83,6 +83,7 @@ f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 86d36c43c53541d667100dc90b89cfba UnityEngine.UI.dll:UnityEngine.EventSystems.TouchInputModule
 1b8c02d0aa82fbf036a2b9b2d713eec3 UnityEngine.UI.dll:UnityEngine.UI.VerticalLayoutGroup
 55ba88e784968a8a6d640465284b69aa Assembly-CSharp.dll:.SeguirPersonaje
+3e143815ad99cdb8a5ab4a7b41fdcbe7 Assembly-CSharp.dll:.ListaPrefab
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 dbc29a6f2739d277c10da432d73adb6d UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
 8144169769d51429c4aedc8b0f92d47b UnityEngine.Timeline.dll:UnityEngine.Timeline.AnimationPlayableAsset
@@ -127,6 +128,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 62e9579aa9ec0c798f2a5cccf19302cf Assembly-CSharp.dll:.Item
 d9fd34f591286b462552df6ce041aa85 Assembly-CSharp.dll:.TransformPosition
 bd97920eaada43644fa61b2a42df3e95 Assembly-CSharp.dll:.Bloque
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.ItemInvencibilidad
 d40df4ab22edd85b1d2eec4cfd9c1832 Assembly-CSharp.dll:.BotonCargarEscena
 b6ab84af3c678a978394b08abdbd887b Assembly-CSharp.dll:.Puntuacion
 fc1e0f4d8439d9928083474691511a13 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkAnimator
@@ -162,4 +164,5 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Pause
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 345024378e48c54f5e2a87048b24edf2 Assembly-CSharp.dll:.Scroll
+5744d00046db2705d8836715c1bd32e9 Assembly-CSharp.dll:.CambioSprite
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.Quit
