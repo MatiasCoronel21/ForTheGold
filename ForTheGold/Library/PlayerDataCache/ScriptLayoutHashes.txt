@@ -1,6 +1,7 @@
 WindowsStandalone
 SceneListBegin?
 Assets/Scenes/MainScene.unity
+Assets/Scenes/HelpScene.unity
 Assets/Scenes/EscenaIntro.unity
 Assets/Scenes/GameScene.unity
 SceneListEnd?

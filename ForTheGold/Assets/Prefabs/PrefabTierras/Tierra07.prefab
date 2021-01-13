@@ -1923,7 +1923,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1192305050320478}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 45.305264, y: -3.9874396, z: 0}
+  m_LocalPosition: {x: 41.7, y: -4.51, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4989543046787838}
@@ -4560,7 +4560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114101549709319374
 MonoBehaviour:
@@ -4585,7 +4585,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114112730144614610
 MonoBehaviour:
@@ -4632,7 +4632,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114235166755745466
 MonoBehaviour:
@@ -4646,7 +4646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114248756855200086
 MonoBehaviour:
@@ -4686,7 +4686,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114409085214837232
 MonoBehaviour:
@@ -4700,7 +4700,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114412706691250800
 MonoBehaviour:
@@ -4725,7 +4725,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114456815240121686
 MonoBehaviour:
@@ -4739,7 +4739,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114504351429851106
 MonoBehaviour:
@@ -4786,7 +4786,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114588199474950938
 MonoBehaviour:
@@ -4822,7 +4822,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 1
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!114 &114668671473131498
 MonoBehaviour:

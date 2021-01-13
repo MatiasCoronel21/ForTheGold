@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosGanados: 50
-  itemSoundClip: {fileID: 8300000, guid: 9ef508f53e63983428c75b266f34bdc5, type: 3}
+  itemSoundClip: {fileID: 8300000, guid: f4232703f863de14b80b4a21905e52c2, type: 3}
   itemSoundVolume: 1
 --- !u!212 &212743386463561226
 SpriteRenderer:
